@@ -1,0 +1,30 @@
+_repo: The-unseen-ear_68679
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Natalie Sumner
+    birthdate: 1881
+    deathdate: 1935
+    gutenberg_agent_id: '711'
+    url: http://www.gutenberg.org/2009/agents/711
+    wikipedia: https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln
+description: ''
+gutenberg_issued: '2022-08-04'
+identifiers:
+  gutenberg: '68679'
+language: en
+pgterms:marc904: https://archive.org/details/unseenear00linciala/mode/2up
+pgterms:marc905: 20200514181625lincoln
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :A. L. Burt Company,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The unseen ear
+url: http://www.gutenberg.org/ebooks/68679
